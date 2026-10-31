@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Rules
+- The CV is a single page at `/` with hash-anchor sections and a sticky nav; keep it RTL (`dir="rtl"`) since content is Arabic.
